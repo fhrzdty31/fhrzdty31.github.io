@@ -1,5 +1,6 @@
 <template>
   <div class="home">
+    <img alt="Vue logo" src="../assets/logo.png">
     <Home msg="Welcome to fhrzdty31's GitHub Pages"/>
   </div>
 </template>
