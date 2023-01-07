@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkpages"]=self["webpackChunkpages"]||[]).push([[443],{912:function(e,n,t){t.r(n),t.d(n,{default:function(){return p}});var u=t(252);const s={class:"about"},a=(0,u._)("h1",null,"The about page is still under development",-1),r=[a];function c(e,n){return(0,u.wg)(),(0,u.iD)("div",s,r)}var l=t(744);const i={},o=(0,l.Z)(i,[["render",c]]);var p=o}}]);
+//# sourceMappingURL=about.068817af.js.map
