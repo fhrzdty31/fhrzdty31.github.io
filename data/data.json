@@ -44,6 +44,23 @@
                 }
             ]
         },
-        "portofolio": []
+        "portofolio": [
+            {
+                "name": "Contoh",
+                "type": [1],
+                "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam, nam."
+            },
+            {
+                "name": "Example",
+                "type": [1, 2],
+                "url": "https://github.com/fhrzdty31",
+                "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt eligendi laudantium vero cum itaque quisquam?"
+            },
+            {
+                "name": "Beispiel",
+                "type": [2, 3],
+                "url": "https://github.com/fhrzdty31"
+            }
+        ]
     }
 }
