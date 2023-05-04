@@ -46,11 +46,6 @@
         },
         "portofolio": [
             {
-                "name": "Contoh",
-                "type": [1],
-                "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam, nam."
-            },
-            {
                 "name": "Example",
                 "type": [1, 2],
                 "url": "https://github.com/fhrzdty31",
@@ -59,7 +54,18 @@
             {
                 "name": "Beispiel",
                 "type": [2, 3],
-                "url": "https://github.com/fhrzdty31"
+                "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus, et."
+            },
+            {
+                "name": "UKL Laundry v2",
+                "type": [],
+                "description": "This project using PHP Native"
+            },
+            {
+                "name": "UKL Laundry",
+                "type": [],
+                "url": "https://github.com/fhrzdty31/UKL-java-Laundry",
+                "description": "This project using Java"
             }
         ]
     }
