@@ -21,7 +21,8 @@
         "type": [
             "php",
             "web",
-            "native"
+            "native",
+            "mysql"
         ],
         "url": "https://github.com/fhrzdty31/UKL-PHP-Native-Laundry",
         "description": "This project using PHP Native"
@@ -69,5 +70,96 @@
         ],
         "url": "https://github.com/fhrzdty31/Increment-and-Decrement",
         "description": "An increment and decrement application that utilizes the Floating action button for the button and the StateFull Widget for the view"
+    },
+    {
+        "name": "SQLite Database",
+        "type": [
+            "java",
+            "android",
+            "database",
+            "sqlite"
+        ],
+        "url": "https://github.com/fhrzdty31/Database-SQLite",
+        "description": "The profile application contains the name, phone number, and email address that uses the SQLite Database for storage"
+    },
+    {
+        "name": "Read Only Memory",
+        "type": [
+            "java",
+            "android",
+            "no-database",
+            "rom"
+        ],
+        "url": "https://github.com/fhrzdty31/Database-ROOM",
+        "description": "The profile application contains the name, phone number, and email address that uses the ROOM Database for storage"
+    },
+    {
+        "name": "Notifications",
+        "type": [
+            "java",
+            "android",
+            "notifications"
+        ],
+        "url": "https://github.com/fhrzdty31/Notifications",
+        "description": "Creating Notifications manually"
+    },
+    {
+        "name": "Alarm",
+        "type": [
+            "java",
+            "android",
+            "alarm"
+        ],
+        "url": "https://github.com/fhrzdty31/Alarm",
+        "description": "Alarm app by utilizing the TimePicker widget to set alarms and using NotificationCompat.Builder and Ringtones for notifications"
+    },
+    {
+        "name": "TingTuTas",
+        "type": [
+            "game",
+            "cli",
+            "python"
+        ],
+        "url": "https://github.com/fhrzdty31/Batu-Kertas-Gunting",
+        "description": "Game 'Batu-Kertas-Gunting' with programming language Python"
+    },
+    {
+        "name": "Tebak Angka",
+        "type": [
+            "game",
+            "cli",
+            "python",
+            "random"
+        ],
+        "url": "https://github.com/fhrzdty31/Tebak-Angka",
+        "description": "Game 'Guess the Number' using the Python programming language"
+    },
+    {
+        "name": "KopiKu User",
+        "type": [
+            "vue3",
+            "web",
+            "front-end",
+            "user"
+        ]
+    },
+    {
+        "name": "KopiKu Admnin",
+        "type": [
+            "vue3",
+            "web",
+            "front-end",
+            "admin"
+        ]
+    },
+    {
+        "name": "KopiKu Server",
+        "type": [
+            "express",
+            "node",
+            "web-server",
+            "rest-api",
+            "mysql"
+        ]
     }
 ]
