@@ -1,0 +1,73 @@
+[
+    {
+        "name": "Example",
+        "type": ["example"],
+        "url": "https://github.com/fhrzdty31",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt eligendi laudantium vero cum itaque quisquam?"
+    },
+    {
+        "name": "Beispiel",
+        "type": ["example"],
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus, et."
+    },
+    {
+        "name": "UKL Laundry",
+        "type": ["java"],
+        "url": "https://github.com/fhrzdty31/UKL-java-Laundry",
+        "description": "This project using Java"
+    },
+    {
+        "name": "UKL Laundry v2",
+        "type": [
+            "php",
+            "web",
+            "native"
+        ],
+        "url": "https://github.com/fhrzdty31/UKL-PHP-Native-Laundry",
+        "description": "This project using PHP Native"
+    },
+    {
+        "name": "My Bio",
+        "type": [
+            "java",
+            "android"
+        ],
+        "url": "https://github.com/fhrzdty31/MyBio",
+        "description": "Simple mobile application"
+    },
+    {
+        "name": "Logically",
+        "type": [
+            "logic",
+            "simple",
+            "practice",
+            "ruby",
+            "python",
+            "javascript"
+        ],
+        "url": "https://github.com/fhrzdty31/Logically",
+        "description": "Code to train logic"
+    },
+    {
+        "name": "Dota Heroes",
+        "type": [
+            "java",
+            "android",
+            "api",
+            "volley-library"
+        ],
+        "url": "https://github.com/fhrzdty31/Dota-API",
+        "description": "The hero data application from the dota game uses the Request API that utilizes Library Volley"
+    },
+    {
+        "name": "Increment and Decrement",
+        "type": [
+            "dart",
+            "flutter",
+            "android",
+            "ios"
+        ],
+        "url": "https://github.com/fhrzdty31/Increment-and-Decrement",
+        "description": "An increment and decrement application that utilizes the Floating action button for the button and the StateFull Widget for the view"
+    }
+]
