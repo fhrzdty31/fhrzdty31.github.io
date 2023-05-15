@@ -1,23 +1,16 @@
 [
     {
-        "name": "Example",
-        "type": ["example"],
-        "url": "https://github.com/fhrzdty31",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt eligendi laudantium vero cum itaque quisquam?"
-    },
-    {
-        "name": "Beispiel",
-        "type": ["example"],
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus, et."
-    },
-    {
+        "id": 1,
         "name": "UKL Laundry",
+        "photo": "img-id1.png",
         "type": ["java"],
         "url": "https://github.com/fhrzdty31/UKL-java-Laundry",
         "description": "This project using Java"
     },
     {
+        "id": 2,
         "name": "UKL Laundry v2",
+        "photo": "img-id2.png",
         "type": [
             "php",
             "web",
@@ -28,6 +21,7 @@
         "description": "This project using PHP Native"
     },
     {
+        "id": 3,
         "name": "My Bio",
         "type": [
             "java",
@@ -37,7 +31,9 @@
         "description": "Simple mobile application"
     },
     {
+        "id": 4,
         "name": "Logically",
+        "photo": "img-id4.png",
         "type": [
             "logic",
             "simple",
@@ -50,6 +46,7 @@
         "description": "Code to train logic"
     },
     {
+        "id": 5,
         "name": "Dota Heroes",
         "type": [
             "java",
@@ -61,6 +58,7 @@
         "description": "The hero data application from the dota game uses the Request API that utilizes Library Volley"
     },
     {
+        "id": 6,
         "name": "Increment and Decrement",
         "type": [
             "dart",
@@ -72,6 +70,7 @@
         "description": "An increment and decrement application that utilizes the Floating action button for the button and the StateFull Widget for the view"
     },
     {
+        "id": 7,
         "name": "SQLite Database",
         "type": [
             "java",
@@ -83,6 +82,7 @@
         "description": "The profile application contains the name, phone number, and email address that uses the SQLite Database for storage"
     },
     {
+        "id": 8,
         "name": "Read Only Memory",
         "type": [
             "java",
@@ -94,6 +94,7 @@
         "description": "The profile application contains the name, phone number, and email address that uses the ROOM Database for storage"
     },
     {
+        "id": 9,
         "name": "Notifications",
         "type": [
             "java",
@@ -104,6 +105,7 @@
         "description": "Creating Notifications manually"
     },
     {
+        "id": 10,
         "name": "Alarm",
         "type": [
             "java",
@@ -114,6 +116,7 @@
         "description": "Alarm app by utilizing the TimePicker widget to set alarms and using NotificationCompat.Builder and Ringtones for notifications"
     },
     {
+        "id": 11,
         "name": "TingTuTas",
         "type": [
             "game",
@@ -124,6 +127,7 @@
         "description": "Game 'Batu-Kertas-Gunting' with programming language Python"
     },
     {
+        "id": 12,
         "name": "Tebak Angka",
         "type": [
             "game",
@@ -135,6 +139,7 @@
         "description": "Game 'Guess the Number' using the Python programming language"
     },
     {
+        "id": 13,
         "name": "KopiKu User",
         "type": [
             "vue3",
@@ -144,6 +149,7 @@
         ]
     },
     {
+        "id": 14,
         "name": "KopiKu Admnin",
         "type": [
             "vue3",
@@ -153,6 +159,7 @@
         ]
     },
     {
+        "id": 15,
         "name": "KopiKu Server",
         "type": [
             "express",
