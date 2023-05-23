@@ -113,7 +113,7 @@
             "alarm"
         ],
         "url": "https://github.com/fhrzdty31/Alarm",
-        "description": "Alarm app by utilizing the TimePicker widget to set alarms and using NotificationCompat.Builder and Ringtones for notifications"
+        "description": "Alarm app by utilizing the TimePicker widget to set alarms and using Notification Compat. Builder and Ringtones for notifications"
     },
     {
         "id": 11,
@@ -124,7 +124,7 @@
             "python"
         ],
         "url": "https://github.com/fhrzdty31/Batu-Kertas-Gunting",
-        "description": "Game 'Batu-Kertas-Gunting' with programming language Python"
+        "description": "Game 'Batu - Kertas - Gunting' with programming language Python"
     },
     {
         "id": 12,
