@@ -23,6 +23,7 @@
     {
         "id": 3,
         "name": "My Bio",
+        "photo": "img-id3.png",
         "type": [
             "java",
             "android"
@@ -48,6 +49,7 @@
     {
         "id": 5,
         "name": "Dota Heroes",
+        "photo": "img-id5.png",
         "type": [
             "java",
             "android",
